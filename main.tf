@@ -10,6 +10,14 @@ resource "azurerm_resource_group" "rg3" {
   name     = "ag4309"
   location = "East US"
 }
+resource "azurerm_resource_group" "rg8" {
+  name     = "ag4309"
+  location = "East US"
+}
+resource "azurerm_resource_group" "rg89" {
+  name     = "ag4309"
+  location = "East US"
+}
 
 resource "azurerm_resource_group" "rg4" {
   name     = "ag4309"
